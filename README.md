@@ -11,7 +11,7 @@ To run the script:
 ```
 python main.py
 ```
-This runs the `ques_2.py` and `ques_5.py` scripts.
+This runs the `ques_B.py` and `ques_E.py` scripts.
 
 The text files are saved to `/output`, and are included in the repository.
 
